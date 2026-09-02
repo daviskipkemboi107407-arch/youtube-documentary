@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+# yt — bash wrapper. Invokes the stdlib-only Python CLI in the same directory.
+# Usage: yt <command> [args...]
+# Works on macOS, Linux, and Android/Termux. On Windows (git-bash / MSYS),
+# the native python.exe wants a Windows path; convert with `cygpath -w`.
+set -euo pipefail
+SOURCE="${BASH_SOURCE[0]}"
+while [ -h "$SOURCE" ]; do
+  DIR="$(cd -P "$(dirname "$SOURCE")" && pwd)"
+  SOURCE="$(readlink "$SOURCE")"
+  case "$SOURCE" in
+    /*) ;;
+    *) SOURCE="$DIR/$SOURCE" ;;
+  esac
+done
+HERE="$(cd -P "$(dirname "$SOURCE")" && pwd)"
+if command -v cygpath >/dev/null 2>&1; then
+  HERE_WIN="$(cygpath -w "$HERE")"
+  exec python "$HERE_WIN\\yt.py" "$@"
+else
+  exec python "$HERE/yt.py" "$@"
+fi
