@@ -1,0 +1,67 @@
+# Documentary project — prevent accidental large/binary asset commits
+
+# Rendered/exported media
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.ogg
+*.wma
+*.flv
+*.wmv
+
+# Image assets
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.webp
+*.psd
+*.ai
+*.tif
+*.tiff
+
+# Exported video/audio projects
+Final Cut Pro.xmL
+DaVinci Resolve*
+Premiere Pro*
+
+# Temporary/cache files
+*.tmp
+*.cache
+*.temp
+Thumbs.db
+ehthumbs.db
+
+# OS/editor files
+.vscode/*
+.idea/
+*.swp
+*.swo
+*~
+
+# Generated/build dependencies
+node_modules/
+*.pem
+*.key
+*.cert
+
+# Logs
+*.log
+logs/
+
+# Environment/secrets
+.env
+*.env
+
+# Render output directories
+output/
+renders/
+assets/
+cache/

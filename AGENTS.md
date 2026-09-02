@@ -1,4 +1,4 @@
-﻿# Project Instructions
+# Project Instructions
 ## Mission
 Build a serious, original, faceless YouTube documentary business.
 The immediate objective is to produce ONE excellent video from research through publication, learn and document the complete workflow, then progressively turn the proven workflow into a repeatable and eventually automated system.
@@ -25,9 +25,8 @@ Build → test → document → improve → automate.
 - Verify before making destructive changes.
 - Keep Git history clean and meaningful.
 ## Current Phase
-FOUNDATION.
-We are NOT currently producing Video #1.
-The foundation should establish the project structure, standards, workflows, documentation, and agent context required to continue development from different devices.
+EXECUTION.
+Video #1 production is beginning. The foundation (structure, standards, workflows, documentation, and agent context) is established and will be validated through the first documentary.
 ## Device Strategy
 The temporary Windows laptop is being used to establish and synchronize the foundation.
 The primary development environment will later continue on a phone using Claude Code and Codex.

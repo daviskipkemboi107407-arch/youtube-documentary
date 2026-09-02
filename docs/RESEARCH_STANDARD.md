@@ -1,4 +1,4 @@
-﻿# Research Standard
+# Research Standard
 ## Purpose
 Every documentary must be built on reliable evidence, clear reasoning, and honest treatment of uncertainty.
 ## Story Selection
@@ -56,5 +56,5 @@ The documentary should add original value through:
 - Strong narration
 Do not simply rewrite another creator's documentary.
 ## Current Phase
-FOUNDATION
-Research standards must be established before selecting and producing Video #1.
+EXECUTION
+Research for Video #1 is now in progress using these established standards.

@@ -1,4 +1,4 @@
-﻿# Story Evaluation System
+# Story Evaluation System
 ## Purpose
 Evaluate documentary ideas before committing significant research or production time.
 ## Scoring
@@ -49,5 +49,5 @@ The numerical score is a decision aid, not an automatic approval system.
 A high score does not guarantee production.
 Human judgment remains responsible for the final decision.
 ## Current Phase
-FOUNDATION
-Use this system when generating the candidate list for Video #1.
+EXECUTION
+Use this system to select and evaluate the documentary candidate for Video #1.

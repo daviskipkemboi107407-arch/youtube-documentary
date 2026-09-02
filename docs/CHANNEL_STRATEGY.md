@@ -1,4 +1,4 @@
-﻿# Channel Strategy
+# Channel Strategy
 ## Niche
 Mysteries + History + Science Documentaries
 ## Channel Format
@@ -42,5 +42,5 @@ Potential revenue streams include:
 - Digital products
 - Other complementary business opportunities
 ## Current Phase
-FOUNDATION
-Do not begin production of Video #1 until the channel strategy, research standards, production workflow, and technical foundation are sufficiently defined.
+EXECUTION
+Video #1 production is beginning using the established channel strategy, research standards, production workflow, and technical foundation.

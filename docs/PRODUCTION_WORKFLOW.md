@@ -1,4 +1,4 @@
-﻿# Production Workflow
+# Production Workflow
 ## Core Pipeline
 Every documentary follows this general process:
 1. Story Discovery
@@ -121,5 +121,5 @@ Automation must preserve:
 - Storytelling
 - Human creative judgment
 ## Current Phase
-FOUNDATION
-The first documentary will be used to validate this workflow and discover which parts should eventually become systems, scripts, agents, or automated pipelines.
+EXECUTION
+The first documentary is in production. This workflow is being validated end-to-end; parts that prove valuable will later become systems, scripts, agents, or automated pipelines.
